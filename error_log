@@ -1,0 +1,13 @@
+[08-Dec-2017 20:42:32 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 528384 bytes) in /home/scrubadubny/public_html/wp-includes/class-wp-hook.php on line 275
+[08-Dec-2017 20:42:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1052672 bytes) in /home/scrubadubny/public_html/wp-includes/class-wp-hook.php on line 271
+[02-Jul-2018 13:49:40 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/scrubadubny/public_html/wp-includes/class-wp-query.php on line 736
+[10-Jul-2018 22:32:31 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/scrubadubny/public_html/wp-includes/class-wp-query.php on line 736
+[11-Aug-2018 12:18:39 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/scrubadubny/public_html/wp-includes/class-wp-query.php on line 736
+[17-Sep-2018 12:11:01 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/scrubadubny/public_html/wp-includes/class-wp-query.php on line 736
+[18-Sep-2018 23:57:34 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/scrubadubny/public_html/wp-includes/class-wp-query.php on line 736
+[01-Oct-2018 02:35:17 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/scrubadubny/public_html/wp-includes/class-wp-query.php on line 736
+[10-Oct-2018 10:16:01 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/scrubadubny/public_html/wp-includes/class-wp-query.php on line 736
+[19-Oct-2018 00:00:00 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/scrubadubny/public_html/wp-includes/class-wp-query.php on line 736
+[19-Oct-2018 05:30:59 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/scrubadubny/public_html/wp-includes/class-wp-query.php on line 736
+[11-Nov-2018 13:42:38 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/scrubadubny/public_html/wp-includes/class-wp-query.php on line 736
+[26-Nov-2018 21:11:30 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/scrubadubny/public_html/wp-includes/class-wp-query.php on line 736
